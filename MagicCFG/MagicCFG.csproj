@@ -113,7 +113,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classx.cs" />
-    <Compile Include="Driver.cs" />
+    //<Compile Include="Driver.cs" />
     <Compile Include="DriverRepair.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -126,9 +126,9 @@
     <Compile Include="iCloudUnlockCFG.Designer.cs">
       <DependentUpon>iCloudUnlockCFG.cs</DependentUpon>
     </Compile>
-    <Compile Include="ipwndfu.cs" />
+    //<Compile Include="ipwndfu.cs" />
     <Compile Include="jeje0x\Bootx.cs" />
-    <Compile Include="jeje0x\Gaster.cs" />
+    //<Compile Include="jeje0x\Gaster.cs" />
     <Compile Include="jeje0x\iRecovery.cs" />
     <Compile Include="MainCFG.cs">
       <SubType>Form</SubType>
